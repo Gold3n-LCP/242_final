@@ -1,0 +1,237 @@
+[
+  {
+    "_id": 1,
+    "img_name": "acdcBackground.jpg",
+    "album_name": "Highway to Hell",
+    "band_name": "ACDC",
+    "song_list": {
+      "s1": "Highway to Hell",
+      "s2": "Girls Got Rhythm",
+      "s3": "Walk All Over You",
+      "s4": "Touch Too Much",
+      "s5": "Beating Around the Bush",
+      "s6": "Shot Down in Flames",
+      "s7": "Get it Hot",
+      "s8": "If You Want Blood",
+      "s9": "Love Hungry Man",
+      "s10": "Night Prowler"
+    },
+    "link": "https://open.spotify.com/embed/track/2zYzyRzz6pRmhPzyfMEC8s?utm_source=generator",
+    "band_members": {
+      "drummer": "Phill Rudd",
+      "lead vocals": "Bon Scott",
+      "lead guitar": "Angus Young",
+      "rhythm guitar": "Malcolm Young",
+      "bass": "Cliff Williams"
+    },
+    "description": "AC/DC is an iconic Australian rock band formed in Sydney in 1973. Known for their high-energy performances and electrifying guitar riffs, the band has become a major influence in the rock genre. AC/DC's classic lineup features Angus Young on lead guitar and his distinctive schoolboy outfit, while his brother Malcolm Young played rhythm guitar until his retirement due to health issues. The band's hard-hitting sound and timeless hits, such as Highway to Hell, Back in Black, and Thunderstruck, have earned them a global fanbase and cemented their status as one of the greatest rock bands of all time. Despite various lineup changes over the years, AC/DC continues to captivate audiences with their powerful music and enduring legacy."
+  },
+
+  {
+    "_id": 2,
+    "img_name": "nirvanaBackground.jpg",
+    "album_name": "Nevermind",
+    "band_name": "Nirvana",
+    "song_list": {
+      "s1": "Smells Like Teen Spirit",
+      "s2": "In Bloom",
+      "s3": "Come as You Are",
+      "s4": "Breed",
+      "s5": "Lithium",
+      "s6": "Polly",
+      "s7": "Territorial Pissings",
+      "s8": "Drain You",
+      "s9": "Lounge Act",
+      "s10": "Stay Away",
+      "s11": "On a Plain",
+      "s12": "Something in the Way",
+      "s13": "Endless, Nameless"
+    },
+    "link": "https://open.spotify.com/embed/track/5ghIJDpPoe3CfHMGu71E6T?utm_source=generator",
+    "band_members": {
+      "drummer": "Dave Grohl",
+      "lead vocals": "Kurt Cobain",
+      "bass": "Krist Novoselic"
+    },
+    "description": "Nirvana was a groundbreaking American rock band formed in 1987 in Aberdeen, Washington. The band consisted of Kurt Cobain (vocals, guitar), Krist Novoselic (bass), and various drummers over its short but impactful career. Nirvana is often credited with popularizing the grunge genre and spearheading the 1990s alternative rock movement. Their second studio album, Nevermind, released in 1991, propelled them to worldwide fame with the iconic single Smells Like Teen Spirit. Cobain's songwriting, marked by raw honesty and angst, resonated with a generation, making Nirvana a symbol of the '90s counterculture. Despite the tragic end to Cobain's life in 1994, Nirvana's influence on music and culture remains profound, and their legacy endures through timeless albums like Nevermind and In Utero."
+  },
+
+  {
+    "_id": 3,
+    "img_name": "gnrBackground.jpg",
+    "album_name": "Appetite for Destruction",
+    "band_name": "Guns N' Roses",
+    "song_list": {
+      "s1": "Welcome to the Jungle",
+      "s2": "It's So Easy",
+      "s3": "Nightrain",
+      "s4": "Out ta Get Me",
+      "s5": "Mr. Brownstone",
+      "s6": "Paradise City",
+      "s7": "My Michelle",
+      "s8": "Think About You",
+      "s9": "Sweet Child O' Mine",
+      "s10": "You're Crazy",
+      "s11": "Anything Goes",
+      "s12": "Rocket Queen"
+    },
+    "link": "https://open.spotify.com/embed/track/0G21yYKMZoHa30cYVi1iA8?utm_source=generator",
+    "band_members": {
+      "drummer": "Rob Gardner",
+      "lead vocals": "Axl Rose",
+      "lead guitar": "Slash",
+      "bass": "Ole Beich"
+    },
+    "description": "Guns N' Roses is a legendary American rock band known for their raw energy, rebellious spirit, and iconic music. Their debut studio album, Appetite for Destruction, released in 1987, catapulted them to international fame and is often hailed as one of the greatest rock albums of all time. Featuring hits like Welcome to the Jungle, Sweet Child o' Mine, and Paradise City, the album embodies the band's signature blend of hard rock, punk, and blues influences, showcasing Axl Rose's distinctive vocals, Slash's masterful guitar work, and the band's collective musical prowess. Appetite for Destruction captured the gritty essence of life on the streets, addressing themes of rebellion, love, and hedonism, resonating with a generation hungry for authentic rock music. Its impact on rock culture and music history remains profound, solidifying Guns N' Roses' status as rock icons."
+  },
+
+  {
+    "_id": 4,
+    "img_name": "aicBackground.jpg",
+    "album_name": "Dirt",
+    "band_name": "Alice in Chains",
+    "song_list": {
+      "s1": "Them Bones",
+      "s2": "Dam That River",
+      "s3": "Rain When I Die",
+      "s4": "Down in a Hole",
+      "s5": "Sickman",
+      "s6": "Rooster",
+      "s7": "Junkhead",
+      "s8": "Dirt",
+      "s9": "God Smack",
+      "s10": "Iron Gland",
+      "s11": "Hate to Feel",
+      "s12": "Angry Chair",
+      "s13": "Would?"
+    },
+    "link": "https://open.spotify.com/embed/track/4A065x9kJt955eGVqf813g?utm_source=generator",
+    "band_members": {
+      "drummer": "Sean Kinney",
+      "lead vocals": "Layne Staley",
+      "lead guitar": "Jerry Cantrell",
+      "bass": "Mike Starr"
+    },
+    "description": "Alice in Chains is a groundbreaking American rock band known for their distinctive blend of grunge, metal, and alternative rock elements. Their album Dirt, released in 1992, is widely regarded as a masterpiece of the grunge era and a defining record of the 1990s alternative rock scene. Featuring haunting vocals by Layne Staley, gritty guitar riffs by Jerry Cantrell, and dark, introspective lyrics, Dirt delves into themes of addiction, depression, and pain with unflinching honesty and intensity. Songs like Would?, Rooster, and Down in a Hole showcase the band's emotional depth and musical versatility, creating a haunting atmosphere that resonated with a generation grappling with societal disillusionment. Dirt remains a cornerstone of Alice in Chains' discography, earning critical acclaim for its raw emotion, powerful instrumentation, and lasting impact on the grunge and alternative rock movements."
+  },
+
+  {
+    "_id": 5,
+    "img_name": "dsotmBackground.jpg",
+    "album_name": "Dark Side of the Moon",
+    "band_name": "Pink Floyd",
+    "song_list": {
+      "s1": "Speak to Me",
+      "s2": "Breath (In the Air)",
+      "s3": "On the Run",
+      "s4": "Time",
+      "s5": "The Great Gig in the Sky",
+      "s6": "Money",
+      "s7": "Us and Them",
+      "s8": "Any Colour You Like",
+      "s9": "Brain Damage",
+      "s10": "Eclipse"
+    },
+    "link": "https://open.spotify.com/embed/track/1tDWVeCR9oWGX8d5J9rswk?utm_source=generator",
+    "band_members": {
+      "drummer": "Nick Mason",
+      "piano": "Richard Wright",
+      "lead guitar": "David Gilmour",
+      "bass": "Roger Waters"
+    },
+    "description": "Pink Floyd is an iconic British rock band known for their innovative and progressive approach to music, incorporating elements of psychedelic rock, art rock, and experimental sounds. Their album The Dark Side of the Moon, released in 1973, stands as a monumental achievement in the history of music and remains one of the best-selling albums of all time. Fusing complex musical compositions with philosophical lyrics, the album explores themes of time, mental illness, conflict, and the human experience. Tracks like Money, Time, and Us and Them showcase the band's unparalleled musicianship, featuring David Gilmour's soulful guitar solos, Roger Waters' introspective lyrics, and the band's mastery of studio production techniques. The Dark Side of the Moon is a sonic journey that seamlessly blends together diverse musical styles and lyrical themes, creating a cohesive and immersive listening experience that has captivated audiences for decades. Its influence on music and culture is profound, solidifying Pink Floyd's legacy as pioneers of progressive rock and musical experimentation."
+  },
+
+  {
+    "_id": 6,
+    "img_name": "bmfBackground.jpg",
+    "album_name": "Bad Motor Finger",
+    "band_name": "Sound Garden",
+    "song_list": {
+      "s1": "Rusty Cage",
+      "s2": "Outshined",
+      "s3": "Slaves & Bulldozers",
+      "s4": "Jesus Christ Pose",
+      "s5": "Face Pollution",
+      "s6": "Somewhere",
+      "s7": "Searching with My Good Eye Closed",
+      "s8": "Room a Thousand Years Wide",
+      "s9": "Mind Riot",
+      "s10": "Drawing Flies",
+      "s11": "Holy Water",
+      "s12": "New Damage"
+    },
+    "link": "https://open.spotify.com/embed/track/4VwPsMcRt1HPVKIdcwY9Uj?utm_source=generator",
+    "band_members": {
+      "drummer": "Matt Cameron",
+      "lead vocals": "Chris Cornell",
+      "lead guitar": "Kim Thayil",
+      "bass": "Ben Shepherd"
+    },
+    "description": "Soundgarden was a pivotal American rock band that played a crucial role in shaping the grunge and alternative rock movements of the 1990s. Their album Badmotorfinger, released in 1991, exemplifies their distinctive sound and creative vision. Featuring Chris Cornell's powerful vocals, Kim Thayil's intricate guitar work, and the band's dynamic rhythm section, the album combines heavy, riff-driven rock with introspective lyrics and complex song structures. Tracks like Outshined, Rusty Cage, and Jesus Christ Pose showcase Soundgarden's ability to blend aggression with melodic sensibility, creating a sound that resonated with both mainstream and underground audiences. Badmotorfinger is characterized by its raw energy, dark themes, and innovative songwriting, earning critical acclaim and commercial success. The album's impact on the grunge and alternative rock scenes solidified Soundgarden's place as one of the most influential bands of their time."
+  },
+
+  {
+    "_id": 7,
+    "img_name": "bushBackground.jpg",
+    "album_name": "Sixteen Stone",
+    "band_name": "Bush",
+    "song_list": {
+      "s1": "Everything Zen",
+      "s2": "Swim",
+      "s3": "Bomb",
+      "s4": "Little Things",
+      "s5": "Comedown",
+      "s6": "Body",
+      "s7": "Machinehead",
+      "s8": "Testosterone",
+      "s9": "Monkey",
+      "s10": "Glycerine",
+      "s11": "Alien",
+      "s12": "X-Girlfriend",
+      "s13": "Comedown (Acoustic)"
+    },
+    "link": "https://open.spotify.com/embed/track/2ox1STg6AbcEHoHWlFtFwr?utm_source=generator",
+    "band_members": {
+      "drummer": "Robin Goodridge",
+      "lead vocals": "Alessandro Tatel",
+      "lead guitar": "Nigel Pulsford",
+      "bass": "Dave Parsons"
+    },
+    "description": "Bush is a British rock band that rose to prominence in the mid-1990s with their distinctive blend of grunge, post-grunge, and alternative rock elements. Their debut album Sixteen Stone, released in 1994, catapulted them into the mainstream music scene and became a cornerstone of the alternative rock movement of the era. Featuring Gavin Rossdale's emotive vocals, crunchy guitar riffs, and anthemic choruses, the album delivers a raw and energetic sound that resonated with a generation hungry for authentic rock music. Tracks like Everything Zen, Comedown, and Machinehead showcase Bush's knack for crafting catchy yet gritty rock songs that explore themes of introspection, relationships, and personal struggles. Sixteen Stone received widespread acclaim for its infectious hooks, powerful lyrics, and the band's dynamic performances, propelling Bush to international fame and establishing them as one of the leading bands of the 1990s alternative rock scene. The album's enduring popularity and impact continue to solidify Bush's legacy in rock music history."
+  },
+
+  {
+    "_id": 8,
+    "img_name": "beatlesBackground.jpg",
+    "album_name": "Abbey Road",
+    "band_name": "Beatles",
+    "song_list": {
+      "s1": "Come Together",
+      "s2": "Something",
+      "s3": "Maxwell's Silver Hammer",
+      "s4": "Oh! Darling",
+      "s5": "Octopus's Garden",
+      "s6": "I Want You",
+      "s7": "Here Comes the Sun",
+      "s8": "Because",
+      "s9": "You Never Give Me Your Money",
+      "s10": "Sun King",
+      "s11": "Mean Mr. Mustard",
+      "s12": "Polythene Pam",
+      "s13": "She Can in Through the Bathroom Window",
+      "s14": "Golden Slumbers",
+      "s15": "Carry That Weight",
+      "s16": "The End",
+      "s17": "Her Majesty"
+    },
+    "link": "https://open.spotify.com/embed/track/6dGnYIeXmHdcikdzNNDMm2?utm_source=generator",
+    "band_members": {
+      "drummer": "Ringo Starr",
+      "lead vocals": "John Lennon",
+      "lead guitar": "George Harrison",
+      "bass": "Paul McCartney"
+    },
+    "description": "The Beatles are arguably the most influential and iconic band in the history of popular music, revolutionizing the music industry and leaving an indelible mark on countless artists and listeners worldwide. Their album Abbey Road, released in 1969, stands as a masterpiece of the rock genre and a testament to the band's unparalleled creativity and musical prowess. Featuring timeless tracks such as Come Together, Something, Here Comes the Sun, and the iconic medley on side two, Abbey Road showcases The Beatles at the height of their collaborative genius. The album seamlessly blends rock, pop, blues, and orchestral elements, highlighting each band member's unique contributions—from John Lennon's introspective songwriting to Paul McCartney's melodic brilliance, George Harrison's evolving guitar work, and Ringo Starr's solid drumming. The innovative production techniques and intricate harmonies displayed throughout the album continue to inspire generations of musicians. Abbey Road marked the end of an era for The Beatles as a group, but its enduring impact cements its status as a timeless classic and a cornerstone of rock and popular music history."
+  }
+]

@@ -1,0 +1,455 @@
+:root {
+  --primary-color: #a60311;
+  --secondary-color: #000000;
+  --tertiary-color: #ffffff;
+  --quaternary-color: #c7c7c7;
+  --quinary-color: #5c5c5c;
+  --senary-color: #ececec;
+  --octonary-color: #363636;
+  --nonary-color: #9b9603;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.new-rocker-regular {
+  font-family: "New Rocker", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.form {
+  text-align: left;
+}
+#results {
+  font-size: larger;
+  font-weight: 700;
+}
+
+input[type="text"] {
+  margin-bottom: 10px;
+}
+
+#index {
+  background-image: url("images/indexBackground.jpg");
+  text-align: center;
+  h1 {
+    color: var(--primary-color);
+    font-size: 50px;
+    font-family: New Rocker;
+    margin-top: 2px;
+    margin-bottom: 2px;
+  }
+}
+
+#home {
+  background-image: url("images/homeBackground.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  h1 {
+    color: var(--primary-color);
+    font-size: 50px;
+  }
+  p {
+    font-size: larger;
+  }
+  text-align: center;
+  margin-top: 10px;
+
+  button {
+    cursor: pointer;
+    width: 200px;
+    height: 50px;
+    background-color: var(--secondary-color);
+    color: var(--tertiary-color);
+    font-size: larger;
+    font-style: italic;
+  }
+}
+
+#spotify {
+  width: 150px;
+  height: 50px;
+}
+
+.acdc {
+  background-color: var(--secondary-color);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: auto;
+  height: 200vh;
+  h1 {
+    color: var(--primary-color);
+    font-size: 50px;
+    margin-bottom: -25px;
+  }
+  h2 {
+    color: var(--nonary-color);
+    font-size: 40px;
+  }
+  p {
+    font-size: larger;
+    color: var(--tertiary-color);
+  }
+  h3 {
+    color: var(--tertiary-color);
+  }
+  text-align: center;
+  margin-top: 10px;
+  img {
+    width: 60%;
+    height: 60%;
+    display: inline-block;
+  }
+}
+
+#Nirvana {
+  background-color: var(--secondary-color);
+  background-image: url("images/nirvanaBackground.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 600px 600px;
+  height: 150vh;
+  h1 {
+    color: var(--primary-color);
+    font-size: 50px;
+  }
+  p {
+    font-size: larger;
+  }
+  text-align: center;
+  margin-top: 10px;
+}
+#userInfo {
+  background-color: var(--secondary-color);
+  background-image: url("images/infoBackground.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+  h1 {
+    color: var(--primary-color);
+  }
+  p {
+    font-size: larger;
+  }
+  text-align: center;
+  margin-top: 10px;
+}
+#aboutMM {
+  background-image: url(images/devilHorns.jpg);
+
+  height: 100vh;
+  h1 {
+    color: var(--primary-color);
+    font-size: 50px;
+  }
+  p {
+    font-size: larger;
+  }
+  img {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+  }
+  text-align: center;
+  margin-top: 10px;
+}
+
+#addMusic {
+  background-color: var(--secondary-color);
+  background-image: url("images/addBackground.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: auto;
+  height: 100vh;
+  h1 {
+    color: var(--primary-color);
+    font-size: 50px;
+    font-family: New Rocker;
+    margin-top: 2px;
+    margin-bottom: 2px;
+  }
+  p {
+    font-size: larger;
+  }
+  text-align: center;
+  margin-top: 10px;
+}
+
+#add {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  cursor: pointer;
+}
+.filler {
+  background: transparent;
+  width: 30%;
+  height: 1px;
+}
+.vertSpace {
+  background: transparent;
+  width: 10px;
+  height: 40%;
+}
+
+/* Structure */
+#content {
+  background-color: var(--quaternary-color);
+  width: 80%;
+  padding: 5px;
+  margin: auto; /* Centers Horizontally */
+  border-radius: 5px;
+}
+
+#bandInfo {
+  position: relative;
+  bottom: 10px;
+  margin: auto;
+}
+
+#login {
+  h1 {
+    .metal-mania-regular {
+      font-family: "Metal Mania", system-ui;
+      font-weight: 400;
+      font-style: normal;
+    }
+  }
+  background: var(--quaternary-color);
+  padding: 10px;
+  width: 50%;
+  text-align: center;
+  margin: auto; /* Center Horizontally */
+  margin-top: 100px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 20px var(--secondary-color);
+  flex-wrap: wrap;
+}
+#loginButton {
+  width: 300px;
+  height: 50px;
+  font-size: 20px;
+  margin: auto;
+  margin-top: 100px;
+  box-shadow: 10px 10px 20px var(--secondary-color);
+  cursor: pointer;
+}
+#addButton {
+  width: 300px;
+  height: 50px;
+  font-size: 20px;
+  margin: auto;
+  margin-top: 100px;
+  box-shadow: 10px 10px 20px var(--secondary-color);
+  cursor: pointer;
+}
+
+/* Typography */
+h1 {
+  color: darkslategray;
+}
+
+ul {
+  list-style-type: none;
+}
+#main-nav a {
+  text-decoration: none;
+}
+#main-nav ul {
+  position: fixed;
+  top: 20px;
+  left: 20%;
+  background-color: var(--octonary-color);
+  width: 50%;
+  margin: auto;
+  margin-left: 5%;
+}
+
+#nav-items li {
+  padding: 15px;
+  color: var(--tertiary-color);
+  text-size-adjust: xx-large;
+  text-align: center;
+  border: 2px solid var(--senary-color);
+  text-size-adjust: xx-large;
+  margin: 4px;
+
+  list-style-type: none;
+  text-decoration: none;
+}
+#nav-items li:hover {
+  color: var(--primary-color);
+  border: 2px solid var(--primary-color);
+  margin: 4px;
+}
+
+#hamburger {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  cursor: pointer;
+}
+#hamburger div {
+  width: 60px;
+  height: 8px;
+  background-color: var(--primary-color);
+  border-radius: 5px;
+  border: 1px solid var(--secondary-color);
+  margin: 10px;
+  margin-left: 0;
+}
+.hide {
+  display: none;
+}
+.hidden {
+  display: none;
+}
+.userVis {
+  display: none;
+}
+
+@media screen and (min-width: 768px) {
+  /* Hides the hamburger menu on larger resolutions (full screen) */
+  #hamburger {
+    display: none;
+  }
+  .flex-container {
+    display: flex;
+  }
+  #main-nav li {
+    flex: 1;
+  }
+  #nav-items {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    justify-content: space-evenly;
+    margin: 50px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .columns {
+    display: flex;
+    margin-left: 0px;
+
+    column-gap: 20px;
+  }
+  .columns section {
+    flex-wrap: wrap;
+    padding: 5px 20px;
+  }
+  img {
+    bottom: 10%;
+  }
+
+  .one,
+  #main-nav li {
+    flex: 1;
+    flex-wrap: wrap;
+  }
+  .two {
+    flex: 2;
+  }
+}
+
+.columns {
+  padding: 10px;
+  width: 80%;
+  margin: auto; /* Center Horizontally */
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 20px;
+}
+
+@media only screen and (max-width: 768px) {
+  .columns {
+    padding: 10px;
+    width: 80%;
+    margin: auto; /* Center Horizontally */
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+  }
+  .columns section {
+    flex-wrap: wrap;
+    img {
+      bottom: 1%;
+    }
+  }
+  .columns img {
+    margin: auto;
+  }
+}
+
+#userImg {
+  background-color: var(--senary-color);
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+  border-radius: 15px;
+  border: 2px solid var(--primary-color);
+  img {
+    width: 75px;
+    height: 75px;
+  }
+}
+#user-info {
+  position: fixed;
+  top: 90px;
+  right: 2%;
+  background-color: var(--octonary-color);
+  width: fit-content;
+  align-content: center;
+  text-align: center;
+  color: var(--tertiary-color);
+  li {
+    border: 3px solid var(--primary-color);
+    text-align: center;
+    margin: auto;
+    margin: 5px;
+    margin-left: 0;
+  }
+}
+
+hr {
+  border: 5px solid var(--primary-color);
+}
+#music-notes {
+  position: fixed;
+  bottom: 1%;
+}
+
+@media only screen and (max-width: 768px) {
+  #make-space {
+    height: 620px;
+  }
+}
+
+#img-prev {
+  display: none;
+  width: 90%;
+  height: auto;
+}
+
+.columns-image {
+  img {
+    width: 300px;
+    height: auto;
+  }
+}
+
+.albums.columns {
+  width: 300px;
+  height: auto;
+}
+
+.album-image {
+  width: 100%;
+  height: auto;
+  margin: 10px;
+}

@@ -1,0 +1,28 @@
+:root {
+  --primary-color: #b70413;
+  --secondary-color: #000000;
+  --tertiary-color: #ffffff;
+  --quaternary-color: #c7c7c7;
+  --quinary-color: #5c5c5c;
+  --senary-color: #ececec;
+  --octonary-color: #363636;
+  --nonary-color: #9b9603;
+}
+
+.w3-modal-content {
+  background-color: var(--octonary-color);
+  color: var(--tertiary-color);
+  h3,
+  label {
+    color: var(--senary-color);
+  }
+  li {
+    text-align: left;
+    text-indent: 30%;
+  }
+
+  padding: 20px;
+  margin: 20% auto;
+  width: 50%;
+  border-radius: 5px;
+}
